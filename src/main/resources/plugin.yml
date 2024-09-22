@@ -1,0 +1,5 @@
+name: NoWaterDamage
+version: '1.0-SNAPSHOT'
+main: winlyps.noWaterDamage.NoWaterDamage
+api-version: '1.20'
+authors: [ Winlyps ]
